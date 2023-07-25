@@ -43,4 +43,16 @@ textarea {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+body {
+  background-color: rgb(79, 108, 194);
+}
+body .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 800px;
+  color: aliceblue;
 }/*# sourceMappingURL=style.css.map */
